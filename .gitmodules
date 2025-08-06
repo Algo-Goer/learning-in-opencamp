@@ -6,4 +6,4 @@
 	url = https://github.com/Algo-Goer/learning-cxx.git
 [submodule "exercises/rustlings"]
 	path = exercises/rustlings
-	url = https://github.com/wawahejun/Rustlings
+	url = git@github.com:Algo-Goer/rustlings.git
